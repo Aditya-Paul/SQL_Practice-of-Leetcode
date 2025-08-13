@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+/* Write your T-SQL query statement below */
 select t.name,t.bonus
 from (
 		select em.empId,em.name,em.salary,bo.bonus
