@@ -1,3 +1,4 @@
+
 /* Write your T-SQL query statement below */
 select player_id, event_date as first_login
 from (
